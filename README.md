@@ -62,7 +62,6 @@ Or just download `index.html` and open it directly — no server needed.
 - Vanilla HTML5 / CSS3 / JavaScript (ES6+)
 - Google Fonts: Orbitron + Share Tech Mono
 - Zero runtime dependencies
-- CAMOZEROD logo embedded as base64 WebP
 
 ## License
 
