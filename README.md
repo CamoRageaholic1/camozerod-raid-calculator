@@ -17,7 +17,6 @@ A fully self-contained RAID array configuration and analysis tool with a dark cy
 - **RAID 50/60 Groups** — Configurable sub-array grouping
 - **Drive Array Visualization** — Color-coded disk map showing data, parity, and spare roles with mismatch rings
 - **Capacity Efficiency Bar** — Visual storage efficiency meter
-- **CAMOZERODAY Branding** — Skull shield logo embedded directly in the header
 
 ## Alert System
 
