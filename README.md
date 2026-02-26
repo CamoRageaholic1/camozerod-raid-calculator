@@ -1,8 +1,8 @@
-# CAMOZEROD RAID Calculator
+# RAID Calculator
 
 > **// EXPLOIT THE UNSEEN //**
 
-![CAMOZEROD](https://img.shields.io/badge/CAMOZEROD-RAID%20Calculator-00d4ff?style=for-the-badge)
+![CAMOZERODAY](https://img.shields.io/badge/CAMOZEROD-RAID%20Calculator-00d4ff?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-single--file-orange?style=for-the-badge)
 
